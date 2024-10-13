@@ -16,7 +16,7 @@ export NVM_DIR="$HOME/.nvm"
 ### Затем установите Node.js:
 nvm install node
 
-###Установите npm (он должен установиться вместе с Node.js):
+### Установите npm (он должен установиться вместе с Node.js):
 npm install -g npm
 
 # Шаг 2: Настройка проекта
