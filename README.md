@@ -25,6 +25,10 @@ npm install -g npm
 mkdir DiscordBot
 cd DiscordBot
 
+### Войдите в данный каталог и загрузите файлы:
+bot.js и config.json
+Откройте файл config.json и настройте его.
+
 ### Инициализируйте новый проект Node.js:
 npm init -y
 
